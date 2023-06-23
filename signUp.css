@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#page{
+    background-color: rgb(243,242,240);
+    height: 90vh;
+    width: 100%;
+}
+.logo{
+    max-width: 70%;
+    margin: 0 auto;
+}
+.wrapper p{
+    font-size: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.container1{
+    height: 60vh;
+    width: 28%;
+    background-color: white;
+    border: none;
+    max-width: 85%;
+    margin: 0 auto;
+    
+}
+.box{
+    max-width: 95%;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+.container1 p:nth-child(1){
+    font-size: 14px;
+    color:rgb(64,64,64) ;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.box input{
+    width: 98%;
+    height: 8%;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-top: 2px;
+}
+.container1 p:nth-child(3){
+    font-size: 14px;
+    color:rgb(64,64,64) ;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 7px;
+}
+.container1 p:nth-child(5){
+    text-align: center;
+    font-size: 12px;
+    width: 85%;
+    padding-left: 9%;
+    padding-top: 10px;
+    color:rgb(64,64,64) ;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.container1 p:nth-child(5) span{
+    color: rgb(10,102,194);
+}
+.container1 a:nth-child(6) button{
+    padding: 15px;
+    width: 98%;
+    margin-top: 10px;
+    border-radius: 35px;
+    background-color: rgb(10,102,194);
+    border: none;
+    font-size: 16px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.container1 p:nth-child(7){
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    padding-left: 50%;
+    padding-top: 15px;
+
+}
+.container1 a:nth-child(8) button{
+    padding: 14px;
+    width: 88%;
+    margin-top: 10px;
+    border-radius: 35px;
+    background: none;
+    border: 1px solid black;
+    font-size: 16px;
+    color:rgb(64,64,64) ;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 5%;
+}
+.container1 a:nth-child(8) button i{
+    padding-right: 3%;
+}
+.container1 p:nth-child(9){
+    font-size:16px ;
+    text-align: center;
+    padding-top: 18px;
+    font-family: 'Open Sans', sans-serif;
+    
+} 
+.container1 p:nth-child(9) a{
+    color: rgb(10,102,194);
+    text-decoration: none;
+    padding-left: 2%;
+
+}
+.heroPage{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+}
+.policy{
+    height: 10px;
+}
+.policy ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1128px;
+    margin: 0 auto;
+    font-size: 12px;
+    padding-top: 30px;
+}
+
+
+
+
